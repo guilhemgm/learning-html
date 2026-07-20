@@ -1,0 +1,16 @@
+.card{
+    color: #2c2c2c;
+    background: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 20px;
+
+    border: 5px solid #2c2c2c;
+    border-radius: 15px;
+
+}
+
+/*margin ajoute autour de l'élément ; padding ajoute DANS l'élément*/
