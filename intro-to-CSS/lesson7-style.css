@@ -1,0 +1,15 @@
+.logo{
+    width: 200px;
+    display: block;
+    margin-top: 150px;
+}
+
+.searchbar{
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+}
+
+div{
+    margin-top: 10px;
+}
