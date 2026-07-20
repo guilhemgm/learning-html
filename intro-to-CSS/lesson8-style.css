@@ -1,0 +1,6 @@
+img{
+    width: 200px;
+    display: block; /*display block est essentiel car l'élement doit controler tout l'espace horizontal pour se centrer*/
+    margin-left: auto; /*auto dit de prendre toute la place dispo*/
+    margin-right: auto;
+}
