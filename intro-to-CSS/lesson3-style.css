@@ -1,0 +1,16 @@
+input {
+    width: 400px;
+    display: block;
+}
+
+img {
+    width: 300px;
+    display: block;
+}
+
+div {
+    margin-top: 50px;
+}
+
+/* On utilise pas <br> dans le html pour le retour à la ligne des éléments mais bien display: block dans le css.
+/* HTML = contenu uniquement ; CSS = style
