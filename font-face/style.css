@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Guido;
+    src: url(Doto_Rounded-Bold.ttf);
+}
+
+body{
+    font-family: "Guido", sans-serif;
+}

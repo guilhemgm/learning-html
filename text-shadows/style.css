@@ -1,0 +1,14 @@
+body{
+    background: rgb(150, 11, 11);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    margin: 50px;
+    text-shadow: 5px 4px 5px black;
+    /*           ➡️  ⬇️  blur  color      */
+}

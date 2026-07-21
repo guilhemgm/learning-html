@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
+
+#hero{
+    background-image: url("images/bg-image.jpg");
+    background-size: cover;
+    padding: 20px;
+}
+
+.apply{
+    background: white;
+    border: none;
+    padding: 5px 15px;
+    font-family: inherit;
+    font-weight: 800;
+}
+
+.footer{
+    color: black;
+}
+
+.underline{
+    border-bottom: 5px solid white;
+}
+
+#logo{
+    width: 100px;
+}
