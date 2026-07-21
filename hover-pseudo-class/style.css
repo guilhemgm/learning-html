@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+#title{
+    border-bottom: 3px solid black;
+    display: inline;
+}
+
+a{
+    text-align: center;
+    color: white;
+    margin: 5px;
+    padding: 25px 0;
+    background-color: lightblue;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+/*:hover est une pseudo class, elle overwrite les règles d'un élément lorsque que celui-ci rempli une condition (ici : hover)*/
+
+#title:hover{
+    font-size: 100px;
+}
