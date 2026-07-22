@@ -1,0 +1,61 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.pp{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.card{
+    padding: 20px 20px 10px 20px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 15px;
+    box-shadow: 0 0 5Px rgba(0, 0, 0, 0.288);
+}
+
+#hero{
+    padding: 150px 50px;
+    background-image: url(images/clery.jpg);
+    background-size: cover;
+}
+
+#main{
+    margin: 0px auto;
+    padding: 20px 10vh 40px;
+    background-color: skyblue;
+}
+
+.carousel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: start;
+}
+
+h1{
+    font-size: 40px;
+    background-color: aquamarine;
+    display: inline;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: aquamarine;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: aqua;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
