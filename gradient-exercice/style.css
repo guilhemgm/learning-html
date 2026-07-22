@@ -1,0 +1,12 @@
+/* div{
+    height: 400px;
+    width: 400px;
+    border: 3px solid black;
+    margin: 0 auto;
+    background: linear-gradient(#0896ef, #486d84);
+} */
+
+body{
+    height: 100vh;
+    background: radial-gradient(#0896ef, #486d84);
+}
